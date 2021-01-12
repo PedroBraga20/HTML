@@ -1,0 +1,154 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Meu Primeiro HTML</title>
+        <style>
+            body {font-family: Arial, Helvetica, sans-serif;
+            background-color: lightgoldenrodyellow;                
+            border: 1px black solid;
+            padding: 20px 30px;
+            margin: 40px;
+            }
+            span.sublinhar{
+                font-weight: bold;
+                background-color: magenta;
+                text-transform: uppercase;
+
+            }
+            span.borda{
+                background-color: rgb(255, 255, 255);
+                border: 1px black;
+                border-style:dashed;
+                padding: 1px;
+            }
+            span.margem{
+                margin: 10px;
+            }
+        </style> 
+    </head>
+    <body>
+        <h1>Fluminense Football Club</h1>
+        <p>
+            <img src="imagens/Fluminense_FC_escudo.png" width="150" style="float: left" hspace="10"> <span class="borda">Fluminense Football Club</span> é uma agremiação poliesportiva e cultural sediada no bairro de Laranjeiras, Zona Sul da cidade do Rio de Janeiro, no Brasil, fundada em 21 de julho de 1902. É uma sociedade civil de caráter desportivo, que tem como principal atividade o futebol.
+        </p>
+        <p style="text-align: center;">
+        </p>
+        <p>
+            Diferentemente de outras associações esportivas da época, o Fluminense não se agrupou em torno da aristocracia agrária ou da burocracia imperial, como também não era um clube exclusivo de imigrantes europeus. Embora o seu principal fundador, Oscar Cox, tenha sido um cidadão anglo-brasileiro, o Fluminense desde o princípio agrupou industriais, literatos, historiadores e profissionais liberais. Era o representante de uma parcela da sociedade que surgia então, não baseada na posse da terra, mas empreendedora e que se apoiava no intelecto e no desenvolvimento cultural e social, e a partir da fundação do clube também esportivo, como padrão de atuação e representação na sociedade.
+        </p>
+        <p>
+            O primeiro jogo foi disputado em 19 de outubro de 1902, contra o Rio Football Club, no campo do Payssandu, em Laranjeiras, com vitória do Fluminense por 8 a 0. Em 6 de setembro de 1903 aconteceu a estreia em jogos interestaduais, com três jogos no campo do Velódromo, em São Paulo, tendo como resultado um empate na primeira partida e posteriormente duas vitórias, nos dias 7 e 8. O empate, no dia da chegada à capital paulista, foi por 0 a 0 contra o Internacional local, seguido de vitórias sobre o Paulistano e São Paulo Athletic.
+        </p>
+        <hr/>
+        <h2>Rivais</h2>
+        <p>
+            <img src="imagens/FlaxFlu.png" width="300" style="float: left;" hspace="10"/> O primeiro Fla-Flu, em 7 de julho de 1912, já deu uma noção do que seria a história deste clássico, pois mesmo tendo o Fluminense perdido nove titulares que foram abrir o departamento de futebol de seu rival, ganhou por 3 a 2 (primeiro gol da história do Fla-Flu, de Edward Calvert, do Flu, a um minuto de jogo), marcando-o desde o início, como clássico de grandes imprevisibilidades, de futebol alegre e ofensivo, festa de cores das grandes torcidas, um carnaval fora de época.
+        </p>
+        
+        <p>
+            O Fla-Flu detém o recorde mundial de público de partidas entre clubes: 194.603 espectadores, na final do Campeonato Carioca de 1963, vencido pelo Flamengo após um empate sem gols. Desde 2012, o Fla-Flu é considerado patrimônio imaterial do Rio de Janeiro, sendo o único clássico de futebol a merecer esta honraria
+        </p>
+        <br/>
+        <p>
+            <img src="imagens/vasflu.png" width="300" style="float: left;" hspace="10"/> Fluminense e Vasco, além de terem grandes torcidas frequentemente se confrontam em momentos decisivos e costumam levar grandes públicos em seus jogos, já tendo ocorrido públicos maiores de 100.000 pessoas por pelo menos onze vezes ou maiores do que 50.000 por pelo menos oitenta e oito até 2018, detendo estes oponentes oito títulos do Campeonato Brasileiro, sendo quatro para cada clube. O momento mais importante do Clássico dos Gigantes foi a decisão do Campeonato Brasileiro de 1984.
+        </p>
+        
+        <p>
+            O primeiro confronto deu-se em 11 de março de 1923, amistoso que teve vitória cruzmaltina por 3 a 2 no Campo da Rua Figueira de Melo, com dois gols de Negrito e um de Torterolli para o Vasco, com Henry Welfare assinalando os do Flu.
+        </p>
+        <br/>
+        <p>
+            <img src="imagens/botaflu.png" width="300" style="float: left;" hspace="10"/> O nome se dá por serem os dois clubes praticantes de futebol mais antigos entre os grandes clubes do Rio de Janeiro,[3] sendo este também o grande clássico mais antigo do Brasil, pois o seu primeiro jogo foi em 22 de outubro de 1905, amistoso que o Fluminense venceu por 6 a 0.
+        </p>
+        
+        <p>
+            Leonardo Affonso de Miranda Pereira, em seu livro "Footballmania",[15] relata o desenvolvimento das duas primeiras equipes de futebol a se tornarem populares no Rio de Janeiro a partir das notícias da época. Fundado por homens feitos e entusiastas do esporte, o pioneiro Fluminense serviu de inspiração para o surgimento de outros clubes de futebol, entre eles o Botafogo, fundado por jovens rapazes de 14 anos, ainda estudantes de escola.
+        </p>
+        
+        <br/>
+        <br/>
+        <hr/>
+        
+        <h1>A história do pó de arroz</h1>
+        <p>
+        <img src="imagens/flu1914.jpg" width="300" style="float: left;" hspace="10"/>
+        </p>
+       
+        <p>
+        13 de maio de 1914, a torcida do América, para provocar o jogador, que havia acabado de trocar o clube pelo Flu, passou a gritar "pó-de-arroz", em referência a um produto branco que o atleta usava no rosto após fazer a barba, costume que mantinha desde que atuava pelo clube anterior.
+        </p>
+        
+        <p>
+        - Na realidade, a história do pó-de-arroz partiu de uma provocação da torcida americana ao Carlos Alberto, que tinha o conhecido hábito de usar talco desde o seu ex-clube. Chateados com o fato do jogador ter saído, os americanos o perseguiram e a torcida tricolor transformou a ofensa em um dos maiores símbolos do nosso futebol. (...) Por ignorância, (a história) gerou rótulos racistas e homofóbicos de torcidas adversárias, que distorceram por completo a história. Não à toa, com orgulho, o Tricolor afirma que “nós somos a história”. Estamos contra qualquer tipo de preconceito. Afinal, somos o “Time de Todos” - explicou o Flu.</span>
+        </p>
+        <br/>
+        <br/>
+        <hr/>
+
+
+        <h2>Mascote</h2>
+        
+        <p>
+        <img src="imagens/mascote.jpg" width="200" style="float: left;" hspace="10"> Idealizado pelo grande caricaturista argentino Lorenzo Mollas, o Cartola surgiu elegante, de fraque e cartola com sua imponente piteira, passando a imagem da aristocracia tricolor. Por isso, o cartola simboliza os fundadores do clube: os aristocratas cariocas, que representavam a fidalguia e a nobreza de atitudes.
+        </p>
+    
+        <p>
+            Em sua versão infantil, o mascote tricolor era representado pelo personagem Cartolinha, que em de 2013, vestiu a sua armadura e se transformou no Guerreirinho, para representar o espírito de superação dos jogadores do clube, traduzido em tantas conquistas emocionantes do Fluminense.
+        </p>
+        <p>
+            No Campeonato Brasileiro de 2009, após uma grande sequência de resultados, com sete vitórias e quatro empates, que o tirou da zona do rebaixamento quando tinha 99% de chances matemáticas de cair, o Fluminense passou a ser chamado e cantado pela sua torcida como "Time de Guerreiros", fama consolidada no ano seguinte com a conquista do título do Campeonato Brasileiro. A partir de 2016 o Fluminense passou a adotar o Guerreirinho como mascote único
+        </p>
+        <br/>
+        <hr/>
+        
+        <h1>
+            O milagre de 2009
+        </h1>
+        <p><img src="imagens/milagre.jpg" width="400" style="float: left;" hspace="10"> <b>Como foi o ano:</b> depois da grande perda da Libertadores, não foi um bom ano para o clube. A grande contratação do ano foi Fred, que causou grande comoção na torcida. Devido a uma lesão, o jogador ficou de fora de boa parte da temporada. A beira de mais um rebaixamento, a torcida começava a chamar Fred de "chinelinho"...  
+        </p>
+
+        <p>
+        Mas o artilheiro acabou sendo essencial, junto da equipe, para tirar o Fluminense do rebaixamento. Só um milagre salvava o Flu da Série B em 2010, pois as chances matemáticas eram de 1% de salvamento apenas. Em uma arrancada espetacular, o time acabou sendo chamado pela torcida de TIME DE GUERREIROS, e escapou do rebaixamento diante do empate dramático com o Coritiba. Foi a partir disso que o Flu adquiriu uma nova identidade com a torcida, e o novo mascote Guerreirinho também nasceu. 
+        </p>
+        <br/>
+        <br/>
+        <br/>
+        <hr/>
+        
+        <h2>Principais Titulos</h2>
+        <li>
+            <img src="imagens/tt52.jpg" width="200" hspace="10" style="float: left;"><strong>Internacional: </strong>
+        
+        </li>
+<p> 
+    - Copa Rio Internacional em 1952;
+</p>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+<li><img src="imagens/flutetra.png" width="250" hspace="10" style="float: left;"><strong>Nacionais:</strong></li>
+    
+<p style="margin-left:40px">- Campeonato Brasileiro em 1984, 2010 e 2012</p>
+<p style="margin-left:40px">- Torneio Roberto Gomes Pedrosa em 1970</p>
+<p style="margin-left:40px">- Copa do Brasil em 2007;</p>
+<p style="margin-left:40px">- Campeonato Brasileiro (série C) em 1999;</p>
+    <br/>       
+<li>
+        <img src="imagens/carioca.jpg" width="250" hspace="10" style="float: left;"><strong>Estaduais:</strong>
+    </li>
+
+<p style="margin-left:40px">- Campeonato Carioca em 1906, 1907, 1908, 1909, 1911, 1917, 1918, 1919, 1924, 1936, 1937, 1938, 1940, 1941, 1946, 1951, 1959, 1964, 1969, 1971, 1973, 1975, 1976, 1980, 1983, 1984, 1985, 1995, 2002,&nbsp;2005 e 2012.</p>
+<br/>
+<br/>
+<br/>
+<br/> 
+<br/> 
+<br/> 
+<hr/>
+    </body>
+</html>
+
